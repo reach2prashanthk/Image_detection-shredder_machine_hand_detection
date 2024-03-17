@@ -17,10 +17,22 @@ The Shredder Machine Hand Detection System is an intelligent surveillance system
 To install and use the Shredder Machine Hand Detection System, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/reach2prashanthk/Image_detection-shredder_machine_hand_detection.git
+    ```bash
+    git clone https://github.com/reach2prashanthk/Image_detection-shredder_machine_hand_detection.git
+    ```
 
+2. Navigate to the project directory:
+    ```bash
+    cd Image_detection-shredder_machine_hand_detection
+    ```
 
-cd Image_detection-shredder_machine_hand_detection
-pip install -r requirements.txt
-python hand_detection.py
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run the hand detection script:
+    ```bash
+    python hand_detection.py
+    ```
+
